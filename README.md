@@ -1,17 +1,17 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 An intelligent **content-based movie recommendation system** built using **Machine Learning** and **Python**.  
 The system suggests similar movies based on user-selected titles by analyzing metadata features such as genres, cast, crew, and plot descriptions.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 This project demonstrates the use of **Natural Language Processing (NLP)** and **similarity-based algorithms** to generate personalized recommendations.  
 It implements **content-based filtering** using feature engineering, vectorization, and cosine similarity — forming the core of many modern recommendation engines like Netflix and IMDb.
 
 ---
 
-## 🚀 Key Highlights
+##  Key Highlights
 - Developed an end-to-end **recommendation pipeline** from data preprocessing to similarity computation  
 - Engineered features combining text and categorical data for enhanced similarity accuracy  
 - Implemented **TF-IDF / Count Vectorization** for text vector representation  
@@ -21,7 +21,7 @@ It implements **content-based filtering** using feature engineering, vectorizati
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 | Category | Tools & Libraries |
 |-----------|-------------------|
 | Programming Language | Python |
@@ -32,7 +32,7 @@ It implements **content-based filtering** using feature engineering, vectorizati
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 1. **Data Preprocessing:** Handle missing values, clean text fields, and standardize movie metadata.  
 2. **Feature Engineering:** Combine key features (overview, genres, keywords, cast, crew).  
 3. **Vectorization:** Convert text data to numerical form using TF-IDF or Count Vectorizer.  
@@ -42,7 +42,7 @@ It implements **content-based filtering** using feature engineering, vectorizati
 
 ---
 
-## 🖥️ How to Run
+##  How to Run
 ```bash
 # Clone the repository
 git clone https://github.com/UditHazoary/movie-recommendation-system.git
